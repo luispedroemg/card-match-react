@@ -1,0 +1,7 @@
+.Sidebar-wrapper{
+    color: black;
+    align-self: flex-end;
+}
+.sidebarButton{
+    margin: 10px;
+}

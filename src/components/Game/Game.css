@@ -1,0 +1,10 @@
+.Table-wrapper{
+    width: 100%;
+}
+.Game-wrapper{
+    width: 75%;
+}
+.Win-wrapper{
+    width: 75%;
+    color: black;
+}
